@@ -950,56 +950,6 @@
     "available": "NOW"
   },
   {
-    "id": 1341,
-    "uuid": "cfcdb6bb-9f37-4b1b-9d7a-3dcedc5a6189",
-    "address": "321 NW 21st Lane - Unit 92, Gainesville, FL 32609",
-    "street": "321 NW 21st Lane - Unit 92",
-    "city": "Gainesville",
-    "rent": "$1,099",
-    "rent_val": 1099,
-    "specs": "1 bd, 1 ba, 600 Sq. Ft.",
-    "beds": 1.0,
-    "baths": 1.0,
-    "sqft": 600,
-    "photo": "https://images.cdn.appfolio.com/atriummanagement/images/13ffa65f-feef-49fb-81f6-47e7ff1472b0/large.jpg",
-    "appfolio_url": "https://atriummanagement.appfolio.com/listings/detail/cfcdb6bb-9f37-4b1b-9d7a-3dcedc5a6189",
-    "lat": 29.6722464,
-    "lng": -82.3295879,
-    "title": "Beautifully Renovated 1 Bedroom Apartment!",
-    "description": "Welcome home to this adorable renovated apartment in The Hammocks off 6th! Featuring brand new granite counter tops, hardwood floors, new appliances, upgraded cabinets and SO much more! MUST SEE!\n\nStay cool all summer long by the pool with all new furniture or cook out on the brand new gas grill stations. Additionally, enjoy access to the brand new state of the art gym facility of our sister property right around the corner!\n\nCommunity includes pool, access to 24 hr. fitness center and clubhouse, 24 hr laundry facility and newly renovated courtyard with gas grills! Minutes from the University of Florida, VA hospital, Shands at UF, North Florida Regional, Butler Plaza, and The Oaks Mall.\n\nUpdated Apartments available from $769 and Fully Renovated Apartments available from $849.\n\nPlease call (352) 372-3826 to schedule your private showing!\n\nAmenities: Pool, Fitness Center, Clubhouse, Outdoor Kitchen and Bar, Outdoor Pergola and Grill Area\n\nAmenities: Pool\n\nContact consent: By requesting a showing or sending an inquiry about this home, you agree that Atrium Management and AppFolio, our leasing software, may contact you about this home by text (including automated texts), call, and email, such as showing confirmations, reminders, and a short feedback survey. Texts are optional: reply STOP at any time to opt out, and you can still tour and apply. Reply HELP for help. Msg frequency varies. Msg & data rates may apply.\n\n\n\n\n \n \n Rental Terms \n \n Rent: $1,099 \n\n\n\n\n Application Fee: $50 \n\n Security Deposit: $500 \n\n\n Available 10/10/26",
-    "terms": [
-      "Rent: $1,099",
-      "Application Fee: $50",
-      "Security Deposit: $500",
-      "Available 10/10/26"
-    ],
-    "pets": [
-      "Cats allowed",
-      "Dogs allowed"
-    ],
-    "photos": [
-      "https://images.cdn.appfolio.com/atriummanagement/images/13ffa65f-feef-49fb-81f6-47e7ff1472b0/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/7e29d57b-5eac-4333-8001-fef913f725b7/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/a53313d7-12f8-4308-bf60-824776c62b6f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/921ab50a-da78-4071-bc52-bc90f27c81d2/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bdb26650-3f21-40b8-82f3-5931bfea8897/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b8e09c0d-45df-42b9-b0d0-d85ef43d93f5/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bb64641c-d8c5-4f00-adc1-b5c2e082ea6f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/099aeea3-f691-4084-aac8-00b6be2f7d22/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/95a6864a-37b9-48a8-b192-3e82c5def08c/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/e46461d4-a1f1-4e76-ba55-99a53a410b94/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/bdbbf114-1b62-4e41-aa6a-92191ca2626b/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/f2961e5e-1d24-4490-820e-a82c63750377/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/25d7901f-ca52-42b3-bfc2-94f2874e6724/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/5ed659f3-5325-4f73-9799-772eb7b66b9f/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b021afe3-0f17-4a18-9a70-d263b612d93a/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/b0d66a52-b2ea-46ad-9337-a86aa8a0ae33/large.jpg",
-      "https://images.cdn.appfolio.com/atriummanagement/images/6a24b2ff-9682-4274-bcaf-60b40cdf0cf7/large.png"
-    ],
-    "apply_url": "https://atriummanagement.appfolio.com/listings/rental_applications/new?listable_uid=cfcdb6bb-9f37-4b1b-9d7a-3dcedc5a6189&source=Website",
-    "available": "10/10/26"
-  },
-  {
     "id": 1311,
     "uuid": "c306955d-fe7e-4d35-8391-7339a5531eda",
     "address": " 3600 Windmeadows Blvd - Unit 109, Model, Gainesville, FL 32608",
